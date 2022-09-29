@@ -1,4 +1,5 @@
 a = 40
 b = 60
-print (a+b)
+sum = a+b
 print ("Hello Guys! how are you doing?")
+print (sum)
