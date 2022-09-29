@@ -1,5 +1,6 @@
-a = 40
-b = 60
-sum = a+b
-print ("Hello Guys! how are you doing?")
-print (sum)
+num1 = 100
+num2 = 400
+
+sum = num1 + num2
+
+print(sum)
